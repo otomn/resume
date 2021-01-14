@@ -12,7 +12,6 @@ Toronto Ontario,
 M2M 1M9
 ### Github
 [otomn](https://github.com/otomn)
-### ItchiIO
 
 ## Education
 
@@ -40,17 +39,14 @@ C++, Haskell, Objective-C, HTML, CSS
 
 ## Personal Projects
 
-### [st](https://github.com/otomn/st)
-(Python, Shell)\
+### [st](https://github.com/otomn/st)(Python, Shell)
 A super useful tool for caching and picking commandline outputs
 
-### [GoogleTranslateTab](https://github.com/otomn/GoogleTranslateTab)
-(Swift)\
+### [GoogleTranslateTab](https://github.com/otomn/GoogleTranslateTab)(Swift)
 Brings Google Translate API to Swift\
 And a small translate tab app built using SwiftUI
 
-### [FunctionalProgrammingJS](https://github.com/otomn/FunctionalProgrammingJS)
-(JavaScript)\
+### [FunctionalProgrammingJS](https://github.com/otomn/FunctionalProgrammingJS)(JavaScript)
 Make a regular function into a curried function in one line
 
 ### Additional
@@ -60,5 +56,4 @@ Make a regular function into a curried function in one line
 
 ### [Lumen](https://github.com/vinaykomaravolu/Lumen)
 A game made with 4 developer, 2 artists, and a music producer\
-Wrote all game mechanics
 <img src="https://github.com/vinaykomaravolu/Lumen/blob/master/media/4.JPG" width="200">
