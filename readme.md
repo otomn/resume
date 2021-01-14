@@ -56,4 +56,7 @@ Make a regular function into a curried function in one line
 
 ### [Lumen](https://github.com/vinaykomaravolu/Lumen)
 A game made with 4 developer, 2 artists, and a music producer\
-<img src="https://github.com/vinaykomaravolu/Lumen/blob/master/media/4.JPG" width="200">
+<img src="https://github.com/vinaykomaravolu/Lumen/blob/master/media/4.JPG"
+width="400">
+<img src="https://github.com/vinaykomaravolu/Lumen/blob/master/media/2.JPG"
+width="400">
