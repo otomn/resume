@@ -2,16 +2,15 @@
 
 ## Contact info
 
-### Phone
-+1(647)676-8657
-### Email
-<dr.tobyshe@gmail.com>
-### Address
+### Phone / Email / Address
++1(647)676-8657 /
+<dr.tobyshe@gmail.com> /
 60 Moore Park Ave,
 Toronto Ontario,
 M2M 1M9
-### Github
-[otomn](https://github.com/otomn)
+### Links
+[GitHub](https://github.com/otomn),
+[itch.io](https://otomn.itch.io)
 
 ## Education
 
@@ -20,13 +19,13 @@ Computer Science Specialist - Focus in Game Design
 ### Time of graduation
 2021 May (expected)
 ### CGPA
-3.93 (as of 2021 Jan)
+3.94 (as of 2021 Jan)
 ### Scolarships
-The Isabel Bader In-Course Scholarship I\
-Lawrence And Sharen Ho International Scholarship Iii\
-Hutcheson, Lecily (White) (Johnston) Schp Ii
+- The Isabel Bader In-Course Scholarship I
+- Lawrence And Sharen Ho International Scholarship Iii
+- Hutcheson, Lecily (White) (Johnston) Schp Ii
 ### Additional
-[more](education.md)
+[more](education/education.md)
 
 ## Technical Skills
 
@@ -39,18 +38,18 @@ C++, Haskell, Objective-C, HTML, CSS
 
 ## Personal Projects
 
-### [st](https://github.com/otomn/st)(Python, Shell)
+### [st](https://github.com/otomn/st) (Python, Shell)
 A super useful tool for caching and picking commandline outputs
 
-### [GoogleTranslateTab](https://github.com/otomn/GoogleTranslateTab)(Swift)
+### [GoogleTranslateTab](https://github.com/otomn/GoogleTranslateTab) (Swift)
 Brings Google Translate API to Swift\
 And a small translate tab app built using SwiftUI
 
-### [FunctionalProgrammingJS](https://github.com/otomn/FunctionalProgrammingJS)(JavaScript)
+### [FunctionalProgrammingJS](https://github.com/otomn/FunctionalProgrammingJS) (JavaScript)
 Make a regular function into a curried function in one line
 
 ### Additional
-[more](projects.md)
+[more](projects/projects.md)
 
 ## Game Development
 
@@ -60,3 +59,6 @@ A game made with 4 developer, 2 artists, and a music producer\
 width="400">
 <img src="https://github.com/vinaykomaravolu/Lumen/blob/master/media/2.JPG"
 width="400">
+
+### Additional
+[more](games/games.md)
