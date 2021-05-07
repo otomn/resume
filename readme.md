@@ -88,11 +88,15 @@ Technologies: Java, C#
 
 # Large Projects
 
-## [Lumen](https://github.com/vinaykomaravolu/Lumen) (Lead programmer)
-Lumen is a 3D platformer game Developed using Unity. A game made with 4 developer, 2 artists, and a music producer\
+## [Lumen](https://github.com/vinaykomaravolu/Lumen) (C#, Unity)
+
+Lumen is a 3D platformer game Developed using Unity. A game made with 4 developer, 2 artists, and a music producer
+
+Role: Lead Programmer
+
 <img src="https://github.com/vinaykomaravolu/Lumen/blob/master/media/4.JPG"
 width="400">
-<img src="https://github.com/vinaykomaravolu/Lumen/blob/master/media/2.JPG"
+<img src="games/Luman.gif"
 width="400">
 
 # Game Projects
