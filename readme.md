@@ -90,14 +90,27 @@ Technologies: Java, C#
 
 ## [Lumen](https://github.com/vinaykomaravolu/Lumen) (C#, Unity)
 
+Role: Lead programmer
+
 Lumen is a 3D platformer game Developed using Unity. A game made with 4 developer, 2 artists, and a music producer
 
-Role: Lead Programmer
+<img src=
+"https://github.com/vinaykomaravolu/Lumen/blob/master/media/4.JPG"
+width="50%"><img src=
+"games/Luman.gif"
+width="50%">
 
-<img src="https://github.com/vinaykomaravolu/Lumen/blob/master/media/4.JPG"
-width="400">
-<img src="games/Luman.gif"
-width="400">
+## [SDC Web App](https://github.com/csc302-spring-2021/proj-DaTeam) (TypeScript, Node, PostgreSQL)
+
+Role: Backend lead
+
+A platform that allows the public health employees to store, display, and fill clinical forms for easier data collection and faster data analysis during the pandemic.
+
+<img src=
+"other/dateam0.png"
+width="50%"><img src=
+"other/dateam1.png"
+width="50%">
 
 # Game Projects
 
