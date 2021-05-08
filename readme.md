@@ -61,7 +61,7 @@ CSC302H1|Engineering Large Systems|96|A+
 CSC404H1|Video Game Design|84|A-
 CSC369H1|Operating Systems|88|A
 
-## [Unofficial transcript](./academicHistory.pdf)
+## [Unofficial transcript](education/academicHistory.pdf)
 </details>
 
 # Technical Skills
