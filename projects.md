@@ -21,7 +21,9 @@ width="50%">
 Role: Backend lead
 
 A platform that allows the public health employees to store, display, and fill clinical forms for efficient data collection and faster data analysis during the pandemic.
+
 Designed the backend system structure, validation framework, and database serialization framework with a customized ORM.
+
 Dissected complex problems, assessed task priorities, delegated tasks to the team members and monitored their progress using GitHub PR and Kanban Board.
 
 <img src=
