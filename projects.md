@@ -50,7 +50,7 @@ width="50%">
 
 Role: Lead programmer, project manager
 
-ProjectX is a Top-Down Shooter game developed by 2 programmers, 1 3D artist and 1 level designer.
+ProjectX is a top-down shooter game developed by 2 programmers, 1 3D artist and 1 level designer.
 
 <img src=
 "games/ProjectX.gif"
@@ -58,7 +58,7 @@ width="50%">
 
 ## [Alchymia](https://otomn.itch.io/alchymia)
 
-Alchymia is a 100% original (original music and original modelling) Top-Down Shooter game with a creative element combination system.
+Alchymia is a 100% original (original music and original modelling) top-down shooter game with a creative element combination system.
 
 <img src=
 "games/Alchymia.gif"

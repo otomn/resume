@@ -1,5 +1,7 @@
 # Zhenyao She
 
+#### [PDF version](onepage/Resume.pdf)
+
 <details>
 <summary>Contact info</summary>
 
@@ -18,10 +20,14 @@ Toronto Ontario
 # Education
 
 ## University of Toronto
+
 Computer Science Specialist
+
 Honours Bachelor of Science
+
 ## CGPA
 3.95
+
 ## Scholarships
 - The Isabel Bader In-Course Scholarship I
 - Hutcheson, Lecily (White) (Johnston) Scholarship Ii
@@ -123,7 +129,7 @@ width="50%">
 
 Role: Lead programmer, project manager
 
-ProjectX is a Top-Down Shooter game developed by 2 programmers, 1 3D artist and 1 level designer.
+ProjectX is a top-down shooter game developed by 2 programmers, 1 3D artist and 1 level designer.
 
 <img src=
 "games/ProjectX.gif"
@@ -131,7 +137,7 @@ width="50%">
 
 ## [Alchymia](https://otomn.itch.io/alchymia)
 
-Alchymia is a 100% original (original music and original modelling) Top-Down Shooter game with a creative element combination system.
+Alchymia is a 100% original (original music and original modelling) top-down shooter game with a creative element combination system.
 
 <img src=
 "games/Alchymia.gif"
@@ -170,6 +176,7 @@ And a light translate tab app built using SwiftUI.
 ## BohrSoft, _Software Developer_ (2018-June to 2018-August)
 
 Designed and developed a form scanning app that can extract and store the form data electronically.
+
 Developed the backend of an instant messaging app with high reliability and maintainability.
 
 Technologies: Java, C#

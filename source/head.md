@@ -1,5 +1,7 @@
 # Zhenyao She
 
+#### [PDF version](onepage/Resume.pdf)
+
 <details>
 <summary>Contact info</summary>
 
@@ -18,10 +20,14 @@ Toronto Ontario
 # Education
 
 ## University of Toronto
+
 Computer Science Specialist
+
 Honours Bachelor of Science
+
 ## CGPA
 3.95
+
 ## Scholarships
 - The Isabel Bader In-Course Scholarship I
 - Hutcheson, Lecily (White) (Johnston) Scholarship Ii
