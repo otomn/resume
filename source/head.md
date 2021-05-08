@@ -30,7 +30,7 @@ Honours Bachelor of Science
 <details>
 <summary>Additional information</summary>
 
-## Activities
+## Extracurricular
 
 ### Event Organizer of U of T Game Design and Development Club (2018-09 to 2019-04)
 Coordinated with 5 executive members to organize game jams

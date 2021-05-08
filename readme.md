@@ -30,7 +30,7 @@ Honours Bachelor of Science
 <details>
 <summary>Additional information</summary>
 
-## Activities
+## Extracurricular
 
 ### Event Organizer of U of T Game Design and Development Club (2018-09 to 2019-04)
 Coordinated with 5 executive members to organize game jams
@@ -77,7 +77,11 @@ Git, Vim, Unity, Docker, Postgres, VSCode, Xcode
 
 Role: Lead programmer
 
-Lumen is a 3D platformer game developed using Unity. A game made with 4 developer, 2 artists, and a music producer
+Lumen is a 3D platformer game developed using Unity.
+
+Developed the core game mechanisms and player control system.
+
+Cooperated with the project manager, 2 level designers, 2 artists, and a music composer in this project.
 
 <img src=
 "https://github.com/vinaykomaravolu/Lumen/blob/master/media/4.JPG"
@@ -89,7 +93,9 @@ width="50%">
 
 Role: Backend lead
 
-A platform that allows the public health employees to store, display, and fill clinical forms for easier data collection and faster data analysis during the pandemic.
+A platform that allows the public health employees to store, display, and fill clinical forms for efficient data collection and faster data analysis during the pandemic.
+Designed the backend system structure, validation framework, and database serialization framework with a customized ORM.
+Dissected complex problems, assessed task priorities, delegated tasks to the team members and monitored their progress using GitHub PR and Kanban Board.
 
 <img src=
 "other/dateam0.png"
