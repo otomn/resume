@@ -38,7 +38,7 @@ and the annual event Game Making Death Match.
 
 ### Game Making Death Match 2017 3rd place (2017-12)
 Developed [Glory Crest](https://otomn.itch.io/glory-crest), 
-a flying shooting simulator game, using Unity.
+a flying simulator game, using Unity.
 
 ### Rotman MMA On-Campus Datathon 2019 3rd place (2019-10)
 Worked with 4 teammates to model the effectiveness  of drugs
@@ -92,7 +92,7 @@ Technologies: Java, C#
 
 Role: Lead programmer
 
-Lumen is a 3D platformer game Developed using Unity. A game made with 4 developer, 2 artists, and a music producer
+Lumen is a 3D platformer game developed using Unity. A game made with 4 developer, 2 artists, and a music producer
 
 <img src=
 "https://github.com/vinaykomaravolu/Lumen/blob/master/media/4.JPG"
@@ -114,7 +114,47 @@ width="50%">
 
 # Game Projects
 
+## [Air War X](https://otomn.itch.io/air-war-x)
 
+Role: Programmer
+
+Air War X is a 2-player 3D bullet hell game developed with another level designer for GDDC game jam (48 hours).
+
+<img src=
+"games/airwarx0.gif"
+width="50%"><img src=
+"games/airwarx1.gif"
+width="50%">
+
+## [ProjectX](https://github.com/ProjectX18/projectX)
+
+Role: Lead programmer, project manager
+
+ProjectX is a Top-Down Shooter game developed by 2 programmers, 1 3D artist and 1 level designer.
+
+<img src=
+"games/ProjectX.gif"
+width="50%">
+
+## [Alchymia](https://otomn.itch.io/alchymia)
+
+Alchymia is a 100% original (original music and original modelling) Top-Down Shooter game with a creative element combination system.
+
+<img src=
+"games/Alchymia.gif"
+width="50%">
+
+## [Glory Crest](https://otomn.itch.io/glory-crest)
+
+Glory Crest is a 99% original (50% original music and 100% original modelling) flying simulator game. Won 3rd place in GDDC Game Making Death Match 2017.
+
+<img src=
+"https://img.itch.zone/aW1hZ2UvMjI2NjAyLzEwNzE4NzAucG5n/347x500/XkypcN.png"
+width="50%"><img src=
+"https://img.itch.zone/aW1hZ2UvMjI2NjAyLzEwNzE4NzEucG5n/347x500/8mdgWs.png"
+width="50%">
+
+#### View more on [itch.io](https://otomn.itch.io)
 
 # Open-Source Projects
 
@@ -125,7 +165,7 @@ A tool for storing the output of any program and select lines to be used as inpu
 Brings Google Translate API to Swift\
 And a light translate tab app built using SwiftUI.
 
-### View more on [GitHub](https://github.com/otomn)
+#### View more on [GitHub](https://github.com/otomn)
 
 ## Contributions
 
