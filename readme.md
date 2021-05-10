@@ -85,7 +85,7 @@ Role: Lead programmer
 
 Lumen is a 3D platformer game developed using Unity.
 
-Developed the core game mechanisms and player control system.
+Developed the core game mechanics and player control system.
 
 Cooperated with the project manager, 2 level designers, 2 artists, and a music composer in this project.
 
