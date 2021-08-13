@@ -23,7 +23,7 @@ Toronto Ontario
 
 Computer Science Specialist
 
-Honours Bachelor of Science
+[Honours Bachelor of Science (with High Distinction)](education/certificate.pdf)
 
 ## CGPA
 3.95
