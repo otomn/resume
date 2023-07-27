@@ -17,6 +17,45 @@ Toronto Ontario
 
 </details>
 
+# Technical Skills
+
+## Languages
+C, C#, C++, Java, JavaScript, Python, Shell, SQL, Swift, TypeScript
+## Development Tools
+Git, Vim, Unity, Docker, Postgres, VSCode, Xcode
+
+# Work Experience
+
+## Siege Camp, _Software Developer_ (2021-July to present)
+
+Designed and implemented multiple systems for a large MMO open world game.
+
+- The sandbox building system that allows the players to build their own castle.
+
+- The Animal AI system behaviour tree framework and navigation framework that supports thousands of animals at once.
+
+- A Message-based parallel systems that allows multiple systems to run in parallel with low performance overhead.
+
+- Network packet serialization and bandwidth optimization.
+
+- Entity collision visualization tools, code generation tools, data verification tools, etc.
+
+Technologies: C++
+
+## BohrSoft, _Software Developer_ (2018-June to 2018-August)
+
+Designed and developed a form scanning app that can extract and store the form data electronically.
+
+Developed the backend of an instant messaging app with high reliability and maintainability.
+
+Technologies: Java, C#
+
+## Destiny Solutions, _Software Developer_ (2019-May to 2020-June)
+
+Developed and maintained a large online course management system that is used by over 90 universities.
+
+Technologies: Java, Javascript, SQL
+
 # Education
 
 ## University of Toronto
@@ -69,13 +108,6 @@ CSC369H1|Operating Systems|88|A
 
 ## [Unofficial transcript](education/academicHistory.pdf)
 </details>
-
-# Technical Skills
-
-## Languages
-C, C#, C++, Java, JavaScript, Python, Shell, SQL, Swift, TypeScript
-## Development Tools
-Git, Vim, Unity, Docker, Postgres, VSCode, Xcode
 
 # Large Projects
 
@@ -171,18 +203,3 @@ And a light translate tab app built using SwiftUI.
 [Mozilla Firefox](https://github.com/mozilla/gecko-dev),
 [you-get](https://github.com/soimort/you-get)
 
-# Work Experience
-
-## BohrSoft, _Software Developer_ (2018-June to 2018-August)
-
-Designed and developed a form scanning app that can extract and store the form data electronically.
-
-Developed the backend of an instant messaging app with high reliability and maintainability.
-
-Technologies: Java, C#
-
-## Destiny Solutions, _Software Developer_ (2019-May to 2020-June)
-
-Developed and maintained a large online course management system that is used by over 90 universities.
-
-Technologies: Java, Javascript, SQL
