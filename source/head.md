@@ -21,8 +21,9 @@ Toronto Ontario
 
 ## Languages
 C, C#, C++, Java, JavaScript, Python, Shell, SQL, Swift, TypeScript
+
 ## Development Tools
-Git, Vim, Unity, Docker, Postgres, VSCode, Xcode
+Git, Vim, Unreal, Unity, Docker, Postgres, VSCode, Xcode, PhysX
 
 # Work Experience
 
